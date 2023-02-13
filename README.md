@@ -6,6 +6,6 @@ save it as local environment variable `OPENAI_API_KEY`
 
 Use following command to start python:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 python3 chat.py
 ```
